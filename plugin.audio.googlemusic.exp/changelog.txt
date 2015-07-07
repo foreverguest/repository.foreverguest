@@ -1,0 +1,69 @@
+[B]1.3[/B]
+- show artwork when browsing artists/albums/playlists/search results
+- show album artwork when playing song
+- change view when browsing library and added option to disable it (only works with confluence)
+- added alternative sort methods
+- fixes for all access search
+
+[B]1.2[/B]
+- return albums and artists in 'All Access' search
+- able to choose stream quality in settings
+- change thumbs up song selection
+- added 'I'm feeling lucky mix'
+- able to add/remove song to/from playlists
+- able to add AA tracks to library
+- tweaks in library browsing
+- try to fetch thumbs up list for AA tracks
+
+[B]1.1[/B]
+- initial All Access search support, only tracks for now
+- show artist name when browsing albums
+- add 'Add to favourite' to most context menus
+- performance improvements when populating folders
+
+[B]1.0[/B]
+- increment song play count
+- add year information to album folder when available
+- upgrade api version in gmusicapi
+- fix for albums with same name and different artists showing mingled
+
+[B]0.8exp23[/B]
+- fix error loading instant mixes without a album art url
+- workaround for android and osx failing to obtain the device_id, user must provide it manually
+
+[B]0.8exp22[/B]
+- don't try to load web cookies even if empty
+
+[B]0.8exp21[/B]
+- upgrade gmusicapi library to latest develop version
+- change library and playlist loading to always use mobile api
+
+[B]0.8exp20[/B]
+- add context menu action 'Update Library' to 'My Library'
+- add option in settings to auto update library on a schedule
+- fix error when loading playlists
+- fix bug with instant mixes (second try)
+
+[B]0.8exp19[/B]
+- fix bug with instant mixes
+
+[B]0.8exp18[/B]
+- don't use cached cookies when streaming, prevent fails with all access tracks
+
+[B]0.8exp17[/B]
+- updated gmusicapi to latest develop version
+- some code refactoring to improve track listing performance
+- changed menu organization to better reflect Google's interface
+- added 'Suffle my library' playlist
+- prevent text conversion to unicode when loading library
+- automatically clean cache/cookies when changing addon version
+
+[B]0.8exp16[/B]
+- support IOS device_id
+- fix incorrect call to notification when playing all access with webclient
+
+[B]0.8exp15[/B]
+- fix for empty playlists (all access), thanks Travis
+- fix error when playing station track
+- fix json import with osx
+
