@@ -1,3 +1,27 @@
+[B]1.4 - 2015-07-17[/B]
+- upgraded gmusicapi library to use OAuth authentication, 'less secure apps' not needed anymore
+- fixed 'play in youtube' by upgrading to youtube v3 api
+- fixed 'Free and purchased' playlist
+- contrib: 'Shuffle Albums' by dvirtz
+- contrib: support for sort by Album, Artist, Year and Date to album listings by rui-castro
+- contrib: show albums for album_artist entries too by nfvs
+- contrib: read disc number property so tracks sort properly by nfvs
+- translation to Portuguese by rui-castro
+- translation to French by mrotschi
+- translation to German by jgierer12
+- changed default sort methods
+- added library export to 'My Library' context menu
+- added 'Start Radio' to context menu of every song
+- show artist fanart or addon background in songs and folders
+- don't store the password in plaintext
+- fixes and code refactoring
+- improved search results
+- added options 'search in youtube' and 'play in youtube' to songs
+- added option 'play all in youtube' to playlists, radios and library folders
+- added option 'search' to library folders
+- added option in settings to export after library update
+- removed support for old webclient api (a registered mobile device is now required to stream uploaded songs)
+
 [B]1.3[/B]
 - show artwork when browsing artists/albums/playlists/search results
 - show album artwork when playing song
