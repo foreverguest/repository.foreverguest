@@ -1,4 +1,11 @@
-[B]1.4 - 2015-07-17[/B]
+[B]1.4.2 - 2015-09-04[/B]
+- fix error in library load
+- added call to reload library
+
+[B]1.4.1 - 2015-08-04[/B]
+- fix unicode errors on notifications
+
+[B]1.4 - 2015-07-27[/B]
 - upgraded gmusicapi library to use OAuth authentication, 'less secure apps' not needed anymore
 - fixed 'play in youtube' by upgrading to youtube v3 api
 - fixed 'Free and purchased' playlist
@@ -9,6 +16,7 @@
 - translation to Portuguese by rui-castro
 - translation to French by mrotschi
 - translation to German by jgierer12
+- translation to Spanish by petemir
 - changed default sort methods
 - added library export to 'My Library' context menu
 - added 'Start Radio' to context menu of every song
