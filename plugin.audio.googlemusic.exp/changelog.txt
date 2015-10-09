@@ -1,3 +1,7 @@
+[B]1.5.1 - 2015-10-05[/B]
+- translation to Polish by mruwek
+- fix for error with Cyrillic letters in your user name
+
 [B]1.5 - 2015-09-22[/B]
 - added option 'Add album to library' to All Access subscribers
 - added 'Listen Now', 'Top Charts' and 'New Releases' to All Access subscribers
