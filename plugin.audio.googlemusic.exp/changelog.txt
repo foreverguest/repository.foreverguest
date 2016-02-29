@@ -1,3 +1,8 @@
+[B]1.7.1 - 2016-02-23[/B]
+- fix kodi library integration in Jarvis
+- don't include playlist songs automaticaly in library
+- add more song metadata when playing
+
 [B]1.7 - 2016-02-12[/B]
 - added option in settings to integrate kodi library in the addon
 - fetch artist art for All-Access/Unlimited content
