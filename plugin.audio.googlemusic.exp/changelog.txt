@@ -1,3 +1,17 @@
+[B]1.8 - 2016-04-01[/B]
+- added 'Create playlist', 'Delete playlist' and 'Delete station' to respectives context menus
+- added 'Set rating', 'Artist top songs' and 'Related artists' to song context menu
+- added distinct view modes in settings for songs, album, artists, playlists and stations
+- show thumbnail for playlists and library stations
+- fix for login without device id
+- refactory some code
+
+[B]1.7.3 - 2016-03-08[/B]
+- change in pkcs1 library to fix login
+
+[B]1.7.2 - 2016-03-08[/B]
+- fix playlists broken by latest modifications
+
 [B]1.7.1 - 2016-02-23[/B]
 - fix kodi library integration in Jarvis
 - don't include playlist songs automaticaly in library
