@@ -1,3 +1,8 @@
+[B]1.8.3 - 2016-04-011[/B]
+- remove unnecessary import from gmusicapi failing with openelec
+- fix loading empty playlist
+- update French translation, thanks mrotschi and neolao
+
 [B]1.8.2 - 2016-04-06[/B]
 - fix syntax error in android
 - fix loading track with missing duration field
