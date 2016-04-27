@@ -1,4 +1,8 @@
-[B]1.8.3 - 2016-04-011[/B]
+[B]1.8.4 - 2016-04-22[/B]
+- fix loading album art in search
+- fix 'Add to library', broken in latest refactory
+
+[B]1.8.3 - 2016-04-11[/B]
 - remove unnecessary import from gmusicapi failing with openelec
 - fix loading empty playlist
 - update French translation, thanks mrotschi and neolao

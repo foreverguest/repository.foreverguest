@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.audio.googlemusic.exp"
        name="Google Music EXP"
-       version="1.8.3"
+       version="1.8.4"
        provider-name="ForeverGuest">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
