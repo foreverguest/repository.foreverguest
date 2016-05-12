@@ -1,3 +1,8 @@
+[B]1.9.2 - 2016-05-10[/B]
+- fix error where free stations menu was not showing
+- improve new version detection to reload library
+- more favourites fixes
+
 [B]1.9.1 - 2016-05-02[/B]
 - add artist background in artists
 - fix error when not a subscriber and free radio is not available (available only in us/canada?)
