@@ -1,2 +1,5 @@
+1.1.0 (2016-05-23)
+Update Github URL
+
 1.0.0 (2015-07-07)
 Initial repository
