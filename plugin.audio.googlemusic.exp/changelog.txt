@@ -1,3 +1,16 @@
+[B]1.10 - 2016-08-12[/B]
+- improved search: now you can fetch more songs, artists or albums
+- return stations in search
+- improved 'play in youtube': better match when fetching and use video ids when provided by google
+- added option 'play in yotube - shuffle'
+- new 'Videos' auto playlist: all songs with video id provided by google
+- updated gmusicapi library
+- updated icon
+- fixes for krypton
+
+[B]1.9.3 - 2016-06-20[/B]
+- fix missing 'artistart' when fetching metadata for songs
+
 [B]1.9.2 - 2016-05-10[/B]
 - fix error where free stations menu was not showing
 - improve new version detection to reload library
