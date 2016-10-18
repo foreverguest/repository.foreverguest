@@ -1,5 +1,14 @@
+[B]1.10.2 - 2016-10-14[/B]
+- fix listing videos in search (thanks bkanuka)
+- free radios should work again (fixed regression from gmusicapi)
+
+[B]1.10.1 - 2016-08-29[/B]
+- prevent error with two threads trying to update the library at the same time
+- fixed 'start radio' missing song title
+- fixed 'play in youtube' missing artist name
+
 [B]1.10 - 2016-08-12[/B]
-- improved search: now you can fetch more songs, artists or albums
+- improved search: now is possible to fetch more songs, artists or albums
 - return stations in search
 - improved 'play in youtube': better match when fetching and use video ids when provided by google
 - added option 'play in yotube - shuffle'
