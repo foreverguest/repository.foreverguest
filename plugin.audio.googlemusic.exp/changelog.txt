@@ -1,3 +1,6 @@
+[B]1.10.3 - 2016-10-19[/B]
+- fix character encoding errors
+
 [B]1.10.2 - 2016-10-14[/B]
 - fix listing videos in search (thanks bkanuka)
 - free radios should work again (fixed regression from gmusicapi)
