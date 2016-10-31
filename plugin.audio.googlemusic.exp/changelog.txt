@@ -1,4 +1,10 @@
-[B]1.10.4 - 2016-10-19[/B]
+[B]1.10.6 - 2016-10-27[/B]
+- fix more character encoding errors
+
+[B]1.10.5 - 2016-10-26[/B]
+- fix bug when auto update library is enabled
+
+[B]1.10.4 - 2016-10-21[/B]
 - avoid checking if any data needs updating on every call
 
 [B]1.10.3 - 2016-10-19[/B]
