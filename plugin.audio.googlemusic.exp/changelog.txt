@@ -1,3 +1,12 @@
+[B]1.11 - 2017-02-09[/B]
+- added 'Play all from here' for playlists
+- added 'Start radio' for playlists
+- added search history
+- updated gmusicapi library
+- fix missing artist name when playing radio
+- fix search navigation errors
+- fix more character encoding errors
+
 [B]1.10.6 - 2016-10-27[/B]
 - fix more character encoding errors
 
