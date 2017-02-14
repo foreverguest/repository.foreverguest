@@ -1,3 +1,6 @@
+[B]1.11.1 - 2017-02-13[/B]
+- revert change in login with missing device id
+
 [B]1.11 - 2017-02-09[/B]
 - added 'Play all from here' for playlists
 - added 'Start radio' for playlists
