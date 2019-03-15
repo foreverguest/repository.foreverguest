@@ -1,3 +1,11 @@
+[B]1.12 - 2019-03-15[/B]
+- Fix crash on Kodi 18 when playing radios
+- Fix encoding error (thanks abbaskip)
+- Fix shuffle albums (thanks dvirtz)
+- Fix duplicate/misordered entries in Thumbs Up auto playlist (thanks ccope)
+- Updated the Export Library function to include leading 0 in track number (thanks SimplySynced)
+- Added Hebrew translation (thanks Eng2Heb)
+
 [B]1.11.1 - 2017-02-13[/B]
 - revert change in login with missing device id
 
